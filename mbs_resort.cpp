@@ -12,6 +12,7 @@ extern "C"
 #include <sstream>
 #include <unistd.h>
 #include <sys/time.h>
+#include <vector>
 
 static const size_t BUFFER_SIZE = 1024 * 1024 * 1024 * 4L;
 

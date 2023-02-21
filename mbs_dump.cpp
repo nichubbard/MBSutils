@@ -13,6 +13,7 @@ extern "C"
 #include <cstring>
 #include <map>
 #include <memory>
+#include <vector>
 
 static bool dump = true;
 #define DUMP_TRIGGER 0x15fb85ba00000000

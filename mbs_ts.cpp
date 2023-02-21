@@ -12,6 +12,7 @@ extern "C"
 #include <iomanip>
 #include <cstring>
 #include <unordered_map>
+#include <vector>
 
 std::string wr_to_string(long wr, bool ns = false)
 {
